@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: dygsvc2au
+  api_key: '782115933212936'
+  api_secret: xmLb6UgYASus6fPjAZIPEdzkEsM
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: dygsvc2au
+  api_key: '782115933212936'
+  api_secret: xmLb6UgYASus6fPjAZIPEdzkEsM
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: dygsvc2au
+  api_key: '782115933212936'
+  api_secret: xmLb6UgYASus6fPjAZIPEdzkEsM
+  enhance_image_tag: true
+  static_image_support: false
